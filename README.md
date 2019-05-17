@@ -1,6 +1,5 @@
 # SlideMenu
-
-<iframe src='//gifs.com/embed/jZ8E5y' frameborder='0' scrolling='no' width='314px' height='646px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<img width="250"alt=""src="https://j.gifs.com/jZ8E5y.gif"
 
 Twitterのスライドメニューを模して作りました。
 
